@@ -701,8 +701,7 @@ local function ConnectEvents()
 
     --============ GET KEY BUTTON ============--
 UI.Buttons.GetKey.MouseButton1Click:Connect(function()
-    CopyToClipboard("https://bst.gg/kxpqu")  -- <-- reklámos link IDE
-end)
+    CopyToClipboard("https://bst.gg/pb39px") 
 
     --============ DISCORD BUTTON ============--
     UI.Buttons.Discord.MouseButton1Click:Connect(function()
